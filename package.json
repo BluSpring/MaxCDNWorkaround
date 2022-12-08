@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "maxcdn-workaround",
+  "version": "1.0.0",
+  "description": "My ISP is failing to redirect MaxCDN correctly, so I just made a workaround to fix it",
+  "main": "index.js",
+  "repository": "https://github.com/BluSpring/MaxCDNWorkaround",
+  "author": "BluSpring",
+  "license": "MIT"
+}
